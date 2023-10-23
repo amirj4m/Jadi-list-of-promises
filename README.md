@@ -7,6 +7,7 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | --- | --- | --- |
 | کتاب کردن داستان های پادکست | تقریبا چند جا |  |
 | معماری ARM |  |  |
+| برنامه(ربات) ترید | [رادیوگیک ۱۰۱ – اعترافات مارکوس هاچینز ، هکری که اینترنت را نجات داد](https://jadi.net/2020/08/radiogeek-101-markus-hutchins/) | برنامه هایی که در لحظه سهام ,رمزارز و ... خرید و فروش میکنن |
 | تروریست و سرچ اینترنت | [رادیو گیک شماره ۱۰ – فارنهایت ۴۵۱](https://jadi.net/2012/06/radio-geek-010-451/) | باید یه روز توضیح بدم در مورد اینجوری تروریست گرفتن امریکا |
 | سرتیفیکیت های اینترنت | [رادیو گیک شماره ۲۳ – تجربه قهوه ای تیره](https://jadi.net/2013/03/radio-geek-23-tajrobeye-ghavei-tire/) |  |
 | صحبت در مورد استالمن و NSA | [ایمیلی از ریچارد استالمن](https://jadi.net/2019/11/rms-email/) |  |
@@ -40,5 +41,5 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
  - [اینترنت چیزها](https://jadi.net/2016/07/radiogeek-65-internet-of-things/)
  - [سورس خوندن](https://www.youtube.com/watch?v=IfiCKLF7fMg&list=PL-tKrPVkKKE1GwtzQVDnqicBP6UxFfDRD&pp=iAQB)
  - [مرور کردن هکر نیوز](https://www.youtube.com/watch?v=Hd0JOcR1JbU)
- - [علم]()
+ - [فلسفه علم](https://jadi.net/2020/01/radiogeek-097-philosophy-of-science/)
 </div>
