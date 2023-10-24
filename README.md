@@ -7,6 +7,9 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | --- | --- | --- |
 | کتاب کردن داستان های پادکست | تقریبا چند جا |  |
 | معماری ARM |  |  |
+| دوره شطرنج مقدماتی | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
+| صحبت در مورد درامد و غیره یوتیوب | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
+| ویدئو Honey Pot | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
 | برنامه(ربات) ترید | [رادیوگیک ۱۰۱ – اعترافات مارکوس هاچینز ، هکری که اینترنت را نجات داد](https://jadi.net/2020/08/radiogeek-101-markus-hutchins/) | برنامه هایی که در لحظه سهام ,رمزارز و ... خرید و فروش میکنن |
 | تروریست و سرچ اینترنت | [رادیو گیک شماره ۱۰ – فارنهایت ۴۵۱](https://jadi.net/2012/06/radio-geek-010-451/) | باید یه روز توضیح بدم در مورد اینجوری تروریست گرفتن امریکا |
 | سرتیفیکیت های اینترنت | [رادیو گیک شماره ۲۳ – تجربه قهوه ای تیره](https://jadi.net/2013/03/radio-geek-23-tajrobeye-ghavei-tire/) |  |
