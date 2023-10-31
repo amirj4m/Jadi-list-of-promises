@@ -5,10 +5,20 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 ## این لیست موضوعاتی هست که جادی قراره درباره اونها صحبت کنه (صحبت در [رادیو](https://jadi.net/tag/podcast), ضبط [ویدیو](https://www.youtube.com/@JadiMirmirani) یا ...) 
 | توضیحات | کی و کجا؟ | چه قولی |
 | --- | --- | --- |
-| کتاب کردن داستان های پادکست | تقریبا چند جا |  |
-| معماری ARM |  |  |
+| کتاب کردن داستان های پادکست | چندین جا |  |
+| معماری ARM | چندین جا |  |
+| صحبت در مورد درامد و غیره یوتیوب | چندین جا |  |
+باگ بانتی | چندین جا |  |
+| در مورد لایسنس ها | [ رادیوگیک - ۱۳۰ - یه جوک بگیم بخندیم ](https://youtu.be/VPTgeReotZg?si=PlwXHQvRMJ7TI7wR) |  |
+| تورنت | [ رادیوگیک - شماره ۱۲۹ - پشت دیوار کیه سایشو من می بینم ](https://youtu.be/CAEPbdvqRPQ?si=lsKDlyDDUE7_kGtQ) |  |
+| در مورد باج افزار | [ رادیوگیک - شماره ۱۲۵ - مدیریت جدید آسایشگاه ](https://youtu.be/xxzFc225jG0?si=gmcyTZh83JtwmS9a) |  |
+| معرفی BSD | [ رادیوگیک - شماره ۱۲۲ - پونگ ذهنی ](https://youtu.be/MyQpuwtqoB8?si=ooOegmKElgvy4LQz) |  |
+| سیستم دیزاین | [ رادیوگیک - شماره ۱۱۵ - چطور در فیسبوک و بقیه شرکت های بزرگ استخدام بشیم ](https://youtu.be/M9unLLVsLyk?si=q-sHzYM3chmgq24H) |  |
+| ویدئو در مورد دارک وب | [ رادیوگیک - شماره ۱۱۴ - چاپگر واکسن ](https://youtu.be/wwUwtCCh5oE?si=YnZyuxlxTzxe3wu_) |  |
+| باگ ها چجوری فیکس میشن | [ رادیوگیک - شماره ۱۱۱ - آرمتو بیار جلو ](https://youtu.be/cHtVCgJqQWE?si=D5LeiJC2WBaHkErx) |  |
+| tor project | [ رادیوگیک - شماره ۱۱۱ - آرمتو بیار جلو ](https://youtu.be/cHtVCgJqQWE?si=D5LeiJC2WBaHkErx) |  |
+| داستان یه هکر | [رادیوگیک - شماره ۱۰۶ - مرده آنست که نامش به نکویی نبرند](https://youtu.be/_koi5jbosvQ?si=jllBZmrXb7anf-G7) | داستان اون هکر که نقشه کل اینترنت رو منتشر کرد و ایمیل خودشم نوشت تهش  |
 | دوره شطرنج مقدماتی | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
-| صحبت در مورد درامد و غیره یوتیوب | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
 | ویدئو Honey Pot | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
 | برنامه(ربات) ترید | [رادیوگیک ۱۰۱ – اعترافات مارکوس هاچینز ، هکری که اینترنت را نجات داد](https://jadi.net/2020/08/radiogeek-101-markus-hutchins/) | برنامه هایی که در لحظه سهام ,رمزارز و ... خرید و فروش میکنن |
 | تروریست و سرچ اینترنت | [رادیو گیک شماره ۱۰ – فارنهایت ۴۵۱](https://jadi.net/2012/06/radio-geek-010-451/) | باید یه روز توضیح بدم در مورد اینجوری تروریست گرفتن امریکا |
@@ -45,4 +55,9 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
  - [سورس خوندن](https://www.youtube.com/watch?v=IfiCKLF7fMg&list=PL-tKrPVkKKE1GwtzQVDnqicBP6UxFfDRD&pp=iAQB)
  - [مرور کردن هکر نیوز](https://www.youtube.com/watch?v=Hd0JOcR1JbU)
  - [فلسفه علم](https://jadi.net/2020/01/radiogeek-097-philosophy-of-science/)
+ - [کدوم سیستم عامل مناسبتره؟](https://youtu.be/_Uz6zTUoKBU?si=8wFoLu4kVtinFTM9)
+ - [کدوم سیستم عامل مناسبتره؟ سیستم عامل ویندوز](https://youtu.be/5CoI3nIyxN8?si=nrHruQCQeWJYPI8v)
+ - [کدوم سیستم عامل مناسبتره؟ تاریخچه و ماجرای گنو/لینوکس](https://youtu.be/yp6GwOX_axs?si=65_QMmX8j1sZoEvO)
+ - [کدوم سیستم عامل مناسبتره؟ اپل و مک](https://youtu.be/NVsefVUYLUM?si=IXiXRWtc-sNtIqBA)
+ - [اشعه کیهانی](https://www.youtube.com/watch?v=fF5RVUns-EE&list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn&index=43&t=2205s)
 </div>
