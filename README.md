@@ -7,8 +7,17 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | --- | --- | --- |
 | کتاب کردن داستان های پادکست | چندین جا |  |
 | معماری ARM | چندین جا |  |
-| صحبت در مورد درامد و غیره یوتیوب | چندین جا |  |
+| صحبت در مورد درامد یوتیوب, محیط کار, افزونه ها و ... | چندین جا |  |
 باگ بانتی | چندین جا |  |
+| هک دوربین | [ رادیو جادی ۱۵۷ - پیش به سوی بیکران‌ها یا در اصل «همه‌اش ضرر» ](https://youtu.be/l2cKRjRqvxU?si=mcP7nbGV-4lG2kyB) |  |
+| چه چیزهایی گوش میدم | [ رادیو جادی - شماره ۱۵۶ - جون مامان بزرگ بگو ](https://youtu.be/4KvG4opliag?si=4ic4FHpQvL9P53wJ) |  |
+| هورمون ها | [ رادیو جادی - شماره ۱۵۵ - دکون فضایی ](https://youtu.be/zaoPLpYmOZw?si=-2DqRcKdT-nKSlpZ) | در مورد هورمون ها باید حرف بزنم |
+| سیگنال ها | [ رادیو جادی - شماره ۱۵۴ - حالا که طوری نشده ](https://youtu.be/xasRNRXCPzU?si=E2HhaYb4lSH41z0p) | یادتون باشه در مورد سیگنال ها یه چیز باحال یادتون بدم |
+| ترجیح neovim به vscode | [ رادیوجادی ۱۵۳ - اجتماع هکرها ](https://youtu.be/2fVOh2_bv40?si=b0y3cT0dA88NPfCB) | چرا ما اینو به اون  ترجیح میدیم |
+| حرف در مورد  4G, 4.5G. 5G | [ رادیوجادی ۱۵۳ - اجتماع هکرها ](https://youtu.be/2fVOh2_bv40?si=b0y3cT0dA88NPfCB) |  |
+| مارکس | [رادیو جادی ۱۵۱ - بیلاخ هم قبوله](https://youtu.be/1eNFaW0ycWE?si=pQh4dx3khLZJwOSE) | در مورد مارکس شاید یه جا حرف زدم |
+| اف پی جی ای(fpga) | [رادیوگیک - شماره ۱۳۶ - صیانتگران دره طرشت](https://youtu.be/g2k3VA_QD9Y?si=0X6RFOxonA4R8NSo) | با سارا در موردش باید حرف بزنیم |
+| ویدئو هک زیرو کلیک  | [رادیوگیک شماره ۱۳۳.۵ – جیمز وب در فضا](https://youtu.be/dW8CLfRrViM?si=KdD8B86L8YgONMNC) |  |
 | در مورد لایسنس ها | [ رادیوگیک - ۱۳۰ - یه جوک بگیم بخندیم ](https://youtu.be/VPTgeReotZg?si=PlwXHQvRMJ7TI7wR) |  |
 | تورنت | [ رادیوگیک - شماره ۱۲۹ - پشت دیوار کیه سایشو من می بینم ](https://youtu.be/CAEPbdvqRPQ?si=lsKDlyDDUE7_kGtQ) |  |
 | در مورد باج افزار | [ رادیوگیک - شماره ۱۲۵ - مدیریت جدید آسایشگاه ](https://youtu.be/xxzFc225jG0?si=gmcyTZh83JtwmS9a) |  |
