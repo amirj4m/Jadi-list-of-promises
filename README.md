@@ -9,6 +9,7 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | معماری ARM | چندین جا |  |
 | صحبت در مورد درامد یوتیوب, محیط کار, افزونه ها و ... | چندین جا |  |
 باگ بانتی | چندین جا |  |
+| tor و VPN | [درک مقدماتی شبکه با جادی](https://youtu.be/M73yl7qMi94?si=QMJVOkImNMwKPxZf) | قسمت اخر درک شبکه مونده هنوز |
 | هک دوربین | [ رادیو جادی ۱۵۷ - پیش به سوی بیکران‌ها یا در اصل «همه‌اش ضرر» ](https://youtu.be/l2cKRjRqvxU?si=mcP7nbGV-4lG2kyB) |  |
 | چه چیزهایی گوش میدم | [ رادیو جادی - شماره ۱۵۶ - جون مامان بزرگ بگو ](https://youtu.be/4KvG4opliag?si=4ic4FHpQvL9P53wJ) |  |
 | هورمون ها | [ رادیو جادی - شماره ۱۵۵ - دکون فضایی ](https://youtu.be/zaoPLpYmOZw?si=-2DqRcKdT-nKSlpZ) | در مورد هورمون ها باید حرف بزنم |
