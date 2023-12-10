@@ -47,6 +47,7 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | اسپرم | [رادیوگیک شماره ۷۳ – جوراب شلواری ۳ – پریود و پی ام اس](https://jadi.net/2017/04/radiogeek-073-joorshalvari-3-period-pms/) | باید در موردش حرف زد چون خیلی باحالن |
 | اپ پریود | [رادیوگیک شماره ۷۳ – جوراب شلواری ۳ – پریود و پی ام اس](https://jadi.net/2017/04/radiogeek-073-joorshalvari-3-period-pms/) | اگه اپ پیدا نکردید بگید من براتون بنویسم |
 | گاز هلیوم | [رادیوگیک شماره ۸۴ – فونتت رو بپا](https://jadi.net/2018/07/radiogeek-84-mind-your-font/) |  |
+| کلید ها در گیت هاب | [آموزش رایگان گبت - قسمت هفتم - فرادرس](https://faradars.org/courses/fvgit9609-git-github-gitlab) | درس دادن کلید، که چجوری باهاش کار کنیم |
 
 
 
