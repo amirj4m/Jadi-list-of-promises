@@ -3,7 +3,7 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 <div dir="rtl">
  
 ## این لیست موضوعاتی هست که جادی قراره درباره اونها صحبت کنه (صحبت در [رادیو](https://jadi.net/tag/podcast), ضبط [ویدیو](https://www.youtube.com/@JadiMirmirani) یا ...) 
-| توضیحات | کی و کجا؟ | چه قولی |
+| چه قولی | کی و کجا؟ | توضیحات |
 | --- | --- | --- |
 | کتاب کردن داستان های پادکست | چندین جا |  |
 | معماری ARM | چندین جا |  |
