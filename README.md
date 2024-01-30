@@ -11,7 +11,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 باگ بانتی | چندین جا |  |
 | سیستم عامل ها | [کمپایل و نصب کرنل لینوکس به همراه نگاه و گپ و سربند](https://youtu.be/vWbt1e4Inew?si=80zBxe1HbHxj-klt) | چجوری سیستم عامل ها به وجود اومدن |
 | tor و VPN | [درک مقدماتی شبکه با جادی](https://youtu.be/M73yl7qMi94?si=QMJVOkImNMwKPxZf) | قسمت اخر درک شبکه مونده هنوز |
-| هک دوربین | [ رادیو جادی ۱۵۷ - پیش به سوی بیکران‌ها یا در اصل «همه‌اش ضرر» ](https://youtu.be/l2cKRjRqvxU?si=mcP7nbGV-4lG2kyB) |  |
 | چه چیزهایی گوش میدم | [ رادیو جادی - شماره ۱۵۶ - جون مامان بزرگ بگو ](https://youtu.be/4KvG4opliag?si=4ic4FHpQvL9P53wJ) |  |
 | هورمون ها | [ رادیو جادی - شماره ۱۵۵ - دکون فضایی ](https://youtu.be/zaoPLpYmOZw?si=-2DqRcKdT-nKSlpZ) | در مورد هورمون ها باید حرف بزنم |
 | سیگنال ها | [ رادیو جادی - شماره ۱۵۴ - حالا که طوری نشده ](https://youtu.be/xasRNRXCPzU?si=E2HhaYb4lSH41z0p) | یادتون باشه در مورد سیگنال ها یه چیز باحال یادتون بدم |
@@ -72,4 +71,5 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
  - [کدوم سیستم عامل مناسبتره؟ اپل و مک](https://youtu.be/NVsefVUYLUM?si=IXiXRWtc-sNtIqBA)
  - [اشعه کیهانی](https://www.youtube.com/watch?v=fF5RVUns-EE&list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn&index=43&t=2205s)
  - [نصب ارچ (arch) ورژن جدید](https://youtu.be/gfD2e9xVmJQ?si=QhVxRfOfTUp_U1Wu)
+ - [هک دوربین‌های مدار بسته](https://www.youtube.com/watch?v=R87rrBWaZbk&t=15s)
 </div>
