@@ -28,7 +28,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | باگ ها چجوری فیکس میشن | [ رادیوگیک - شماره ۱۱۱ - آرمتو بیار جلو ](https://youtu.be/cHtVCgJqQWE?si=D5LeiJC2WBaHkErx) |  |
 | tor project | [ رادیوگیک - شماره ۱۱۱ - آرمتو بیار جلو ](https://youtu.be/cHtVCgJqQWE?si=D5LeiJC2WBaHkErx) |  |
 | داستان یه هکر | [رادیوگیک - شماره ۱۰۶ - مرده آنست که نامش به نکویی نبرند](https://youtu.be/_koi5jbosvQ?si=jllBZmrXb7anf-G7) | داستان اون هکر که نقشه کل اینترنت رو منتشر کرد و ایمیل خودشم نوشت تهش  |
-| دوره شطرنج مقدماتی | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
 | ویدئو Honey Pot | [رادیوگیک - شماره ۱۰۲ - جهان تغییر می کنه](https://youtu.be/YQkTs52UpsQ?si=ZvbM2XQMJ4_NYdY4) |  |
 | برنامه(ربات) ترید | [رادیوگیک ۱۰۱ – اعترافات مارکوس هاچینز ، هکری که اینترنت را نجات داد](https://jadi.net/2020/08/radiogeek-101-markus-hutchins/) | برنامه هایی که در لحظه سهام ,رمزارز و ... خرید و فروش میکنن |
 | تروریست و سرچ اینترنت | [رادیو گیک شماره ۱۰ – فارنهایت ۴۵۱](https://jadi.net/2012/06/radio-geek-010-451/) | باید یه روز توضیح بدم در مورد اینجوری تروریست گرفتن امریکا |
@@ -45,7 +44,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | ویدئو کست رمزنگاری | [رادیو گیک شماره ۷۰ – رمزنگاری کوانتومی چینی](https://jadi.net/2016/12/radiogeek-70-quantum-crypto-from-china/) |  |
 | سکس با روبات ها | [رادیو گیک شماره ۷۲ – ریزه میزه های هدف‌مند](https://jadi.net/2017/03/radiogeek-72-sprms/) | شاید در مورد سکس با روبات ها حرف بزنم |
 | اسپرم | [رادیوگیک شماره ۷۳ – جوراب شلواری ۳ – پریود و پی ام اس](https://jadi.net/2017/04/radiogeek-073-joorshalvari-3-period-pms/) | باید در موردش حرف زد چون خیلی باحالن |
-| اپ پریود | [رادیوگیک شماره ۷۳ – جوراب شلواری ۳ – پریود و پی ام اس](https://jadi.net/2017/04/radiogeek-073-joorshalvari-3-period-pms/) | اگه اپ پیدا نکردید بگید من براتون بنویسم |
 | گاز هلیوم | [رادیوگیک شماره ۸۴ – فونتت رو بپا](https://jadi.net/2018/07/radiogeek-84-mind-your-font/) |  |
 
 
@@ -72,4 +70,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
  - [اشعه کیهانی](https://www.youtube.com/watch?v=fF5RVUns-EE&list=PL-tKrPVkKKE1peHomci9EH7BmafxdXKGn&index=43&t=2205s)
  - [نصب ارچ (arch) ورژن جدید](https://youtu.be/gfD2e9xVmJQ?si=QhVxRfOfTUp_U1Wu)
  - [هک دوربین‌های مدار بسته](https://www.youtube.com/watch?v=R87rrBWaZbk&t=15s)
+ - اپ پریود زیاد وجود داره، لازم نیست ما بنویسیم (: 
+ - [دوره شطرنج مقدماتی](https://www.youtube.com/watch?v=t2R_0OeHCf8&list=PL-tKrPVkKKE1w90hW5LCZWnJvfa7YCuE0)
 </div>
