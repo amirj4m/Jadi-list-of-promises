@@ -72,4 +72,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
  - [هک دوربین‌های مدار بسته](https://www.youtube.com/watch?v=R87rrBWaZbk&t=15s)
  - اپ پریود زیاد وجود داره، لازم نیست ما بنویسیم (: 
  - [دوره شطرنج مقدماتی](https://www.youtube.com/watch?v=t2R_0OeHCf8&list=PL-tKrPVkKKE1w90hW5LCZWnJvfa7YCuE0)
-</div>
+ - [شبکه(VPN/Tor)][https://www.youtube.com/watch?v=1d0P38x2eMA&list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_&index=14]
+ - 
+   </div>
