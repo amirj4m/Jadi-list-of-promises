@@ -10,7 +10,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | صحبت در مورد درامد یوتیوب, محیط کار, افزونه ها و ... | چندین جا |  |
 باگ بانتی | چندین جا |  |
 | سیستم عامل ها | [کمپایل و نصب کرنل لینوکس به همراه نگاه و گپ و سربند](https://youtu.be/vWbt1e4Inew?si=80zBxe1HbHxj-klt) | چجوری سیستم عامل ها به وجود اومدن |
-| tor و VPN | [درک مقدماتی شبکه با جادی](https://youtu.be/M73yl7qMi94?si=QMJVOkImNMwKPxZf) | قسمت اخر درک شبکه مونده هنوز |
 | چه چیزهایی گوش میدم | [ رادیو جادی - شماره ۱۵۶ - جون مامان بزرگ بگو ](https://youtu.be/4KvG4opliag?si=4ic4FHpQvL9P53wJ) |  |
 | هورمون ها | [ رادیو جادی - شماره ۱۵۵ - دکون فضایی ](https://youtu.be/zaoPLpYmOZw?si=-2DqRcKdT-nKSlpZ) | در مورد هورمون ها باید حرف بزنم |
 | سیگنال ها | [ رادیو جادی - شماره ۱۵۴ - حالا که طوری نشده ](https://youtu.be/xasRNRXCPzU?si=E2HhaYb4lSH41z0p) | یادتون باشه در مورد سیگنال ها یه چیز باحال یادتون بدم |
@@ -72,6 +71,6 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
  - [هک دوربین‌های مدار بسته](https://www.youtube.com/watch?v=R87rrBWaZbk&t=15s)
  - اپ پریود زیاد وجود داره، لازم نیست ما بنویسیم (: 
  - [دوره شطرنج مقدماتی](https://www.youtube.com/watch?v=t2R_0OeHCf8&list=PL-tKrPVkKKE1w90hW5LCZWnJvfa7YCuE0)
- - [شبکه(VPN/Tor)][https://www.youtube.com/watch?v=1d0P38x2eMA&list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_&index=14]
+ - [شبکه(VPN/Tor)](https://www.youtube.com/watch?v=1d0P38x2eMA&list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_&index=14)
  - 
    </div>
