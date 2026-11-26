@@ -45,7 +45,7 @@ This repository is about topics that [Jadi](https://github.com/jadijadi) is goin
 | اسپرم | [رادیوگیک شماره ۷۳ – جوراب شلواری ۳ – پریود و پی ام اس](https://jadi.net/2017/04/radiogeek-073-joorshalvari-3-period-pms/) | باید در موردش حرف زد چون خیلی باحالن |
 | گاز هلیوم | [رادیوگیک شماره ۸۴ – فونتت رو بپا](https://jadi.net/2018/07/radiogeek-84-mind-your-font/) |  |
 |هوش مصنوعی بدون محدودیت | [ رادیوجادی ۲۶۸ - من و جی تی ای و اونلی فنز رو کجا می برین؟ ](https://youtu.be/pUIOPoeNqok?si=jxDizMQWFgm3jh68) | در مورد سیستم هایی(Ai) که گاردریل ندارن |
-
+بازدید از network یه شرکت | [دوره مقدماتی شبکه](https://youtube.com/playlist?list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_&si=XfEf5SVk1WRQ8TCB) | بریم یه شرکت و شبکه شون رو ببینیم چه شکلیه|
 
 
 
